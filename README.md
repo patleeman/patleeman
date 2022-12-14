@@ -3,13 +3,13 @@
 - I'm Patrick! (☞ﾟヮﾟ)☞
 - I'm a [product-minded](https://blog.pragmaticengineer.com/the-product-minded-engineer/) fullstack developer and engineering manager.
 - I work mostly with Python and Typescript these days.
-- I've done a lot of work building experimentation platforms and scaling the Growth team at @noom.
-- I'm a huge productivity tool nerd, currently a huge fan of @obsidianmd.
+- I've done a lot of work building experimentation platforms and scaling the Growth team at [@noom](https://github.com/noom/).
+- I'm a huge productivity tool nerd, currently a huge fan of [@obsidianmd](https://github.com/obsidianmd).
 
 # Quickstart
 
 - [Check out my blog](https://www.patricklee.nyc)
-- [Linked-in profile](https://www.linkedin.com/in/patrickleenyc/)
+- [My Linkedin profile](https://www.linkedin.com/in/patrickleenyc/)
 - [My dotfiles and machine setup scripts](https://github.com/patleeman/dotfiles)
 
 # (Public) Things I've built
@@ -20,4 +20,5 @@
 
 # (Non-public) Things I've built:
 
-- Noom.com's Experimentation Platform (aka Meristem)
+- [Noom.com's Experimentation Platform (aka Meristem)](https://medium.com/noom-engineering/the-growth-machine-how-noom-runs-365-landing-page-experiments-per-year-1e098ea33354)
+
