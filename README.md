@@ -2,7 +2,7 @@
 
 - I'm Patrick! (☞ﾟヮﾟ)☞
 - I'm a [product-minded](https://blog.pragmaticengineer.com/the-product-minded-engineer/) fullstack developer and engineering manager.
-- I work mostly with Python and Typescript these days.
+- I develop mostly with Python and Typescript these days.
 - I've done a lot of work building experimentation platforms and scaling the Growth team at [@noom](https://github.com/noom/).
 - I'm a huge productivity tool nerd, currently a huge fan of [@obsidianmd](https://github.com/obsidianmd).
 
