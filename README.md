@@ -5,8 +5,6 @@ Hi, there. My name is Patrick!
 # Quickstart
 
 - [Check out my blog](https://www.patricklee.nyc)
-- [My Linkedin profile](https://www.linkedin.com/in/patrickleenyc/)
-- [My dotfiles and machine setup scripts](https://github.com/patleeman/dotfiles)
 
 # Things I've built
 
