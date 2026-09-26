@@ -1,15 +1,17 @@
-# Patrick, aka Trash Panda 🦝
+# Hi, I'm Patrick 🦝
 
-If an agent needs a tool it doesn't have, I want it to make one and keep going. Most of what I'm building lately follows from that.
+I build the software AI agents work inside: the app they run in, the queue they pull tasks from, the channel where they talk to each other. The agents write most of the code now. I design the harness, then read what they did.
 
-## What I'm building
+Online I'm Trash Panda ([@trashpandaemoji](https://x.com/trashpandaemoji)). I write up my experiments at [Slopfluencer](https://slopfluencer.com/), including the ones I deleted the same afternoon. Models draft the posts from my notes, and I publish the version I like best.
 
-- **[Neon Pilot](https://github.com/patleeman/neon-pilot)** — a self-extensible desktop agent harness with durable conversations and background work. [Website](https://neonpilot.net/) · [Docs](https://neonpilot.net/docs/)
-- **[Task Factory](https://github.com/patleeman/task-factory)** — queue-first orchestration for AI coding agents, built around human review.
-- **[BB plugins](https://github.com/patleeman/bb-plugins)** — persistent bot teams, planning tools, and custom UI for agent workflows.
+## Agent tools
 
-## Earlier work
+- **[Neon Pilot](https://github.com/patleeman/neon-pilot)** ([site](https://neonpilot.net/)): a macOS desktop app for running agents. Ask it for a new command, tool, panel, or automation and it builds that into itself, so the workflow is still there tomorrow. Conversations and background jobs survive restarts.
+- **[Task Factory](https://github.com/patleeman/task-factory)**: a work queue for AI coding agents. Agents plan and run tasks in order; you write the ideas and review the output. It assumes the human reviewer is the bottleneck and paces the work to match.
+- **[BB plugins](https://github.com/patleeman/bb-plugins)**: plugins for [bb](https://github.com/patleeman/bb), the agent workspace I use every day. Persistent bot teams that share a channel, planning tools, and custom UI.
 
-At Clockwise, I helped build [Prism](https://www.linkedin.com/pulse/building-prism-how-we-developed-our-domain-specific-patrick-lerhaupt-uinvc/): a DSL, an interpreter, a synthetic data pipeline, and fine-tuned models. At Noom, I built a [Git-based experimentation platform](https://medium.com/noom-engineering/the-growth-machine-how-noom-runs-365-landing-page-experiments-per-year-1e098ea33354). I also made [Obsidian Open in New Tab](https://github.com/patleeman/obsidian-open-in-new-tab) and [Quill Markdown Shortcuts](https://github.com/patleeman/quill-markdown-shortcuts).
+## Before this
 
-I write at [Slopfluencer](https://slopfluencer.com/) and post as [@trashpandaemoji](https://x.com/trashpandaemoji) on X.
+- **Clockwise:** helped build [Prism](https://www.linkedin.com/pulse/building-prism-how-we-developed-our-domain-specific-patrick-lerhaupt-uinvc/), including the domain-specific language, its interpreter, a synthetic data pipeline, and fine-tuned models.
+- **Noom:** built the [Git-based experimentation platform](https://medium.com/noom-engineering/the-growth-machine-how-noom-runs-365-landing-page-experiments-per-year-1e098ea33354) for landing-page tests.
+- **Small tools:** [Obsidian Open in New Tab](https://github.com/patleeman/obsidian-open-in-new-tab) and [Quill Markdown Shortcuts](https://github.com/patleeman/quill-markdown-shortcuts).
