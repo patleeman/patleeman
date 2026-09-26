@@ -1,19 +1,15 @@
-# Introduction 
+# Hi, I'm Patrick 🦝
 
-Hi, there. My name is Patrick!
+I build AI agents and the tools around them. Lately I've been stuck on a question: if an agent needs a new capability, why can't it add one itself? That's led to a desktop harness, a work queue, and more plugins than any reasonable person needs.
 
-# Quickstart
+## What I'm building
 
-- [Check out my blog](https://www.patricklee.nyc)
+- **[Neon Pilot](https://github.com/patleeman/neon-pilot)** — a desktop agent harness with durable conversations, background work, and tools the agent can extend. [Website](https://neonpilot.net/) · [Docs](https://neonpilot.net/docs/)
+- **[Task Factory](https://github.com/patleeman/task-factory)** — a queue for AI coding work that keeps agent output at a pace a human can review.
+- **[BB plugins](https://github.com/patleeman/bb-plugins)** — plugins for agent workflows, including persistent bot teams, planning tools, and custom UI.
 
-# Things I've built
+## Earlier work
 
-- [LLM Integration for Clockwise Prism](https://www.linkedin.com/pulse/building-prism-how-we-developed-our-domain-specific-patrick-lerhaupt-uinvc/) - I helped create a lisp-like domain specific language, interpreter, synthetic dataset pipeline, and fine-tuned models to output the language.
-- [Noom.com's Experimentation Platform (aka Meristem)](https://medium.com/noom-engineering/the-growth-machine-how-noom-runs-365-landing-page-experiments-per-year-1e098ea33354) - Built a Git-based experimentation system used by Noom's Growth team to run experiments while reducing tech debt (ask me how).
-- Noom.com - Contributed a fairly sizable portion of Noom.com's codebase
-- [Collate Notes](https://github.com/Collateapp/) - A cross platform electron-based note taking app
-- [VS Notes](https://github.com/patleeman/VSNotes) - A vscode extension for rapid note taking
-- [Obsidian Readability](https://github.com/patleeman/obsidian-readability) - An Obsidian plugin to add Hemmingway App style highlights for your writing
+At Clockwise, I helped build [Prism's language, interpreter, synthetic data pipeline, and fine-tuned models](https://www.linkedin.com/pulse/building-prism-how-we-developed-our-domain-specific-patrick-lerhaupt-uinvc/). At Noom, I built a [Git-based experimentation system](https://medium.com/noom-engineering/the-growth-machine-how-noom-runs-365-landing-page-experiments-per-year-1e098ea33354). I've also made a few smaller things, including [Obsidian Open in New Tab](https://github.com/patleeman/obsidian-open-in-new-tab) and [Quill Markdown Shortcuts](https://github.com/patleeman/quill-markdown-shortcuts).
 
-
-
+I write at [Slopfluencer](https://slopfluencer.com/) and post as [@trashpandaemoji](https://x.com/trashpandaemoji) on X.
