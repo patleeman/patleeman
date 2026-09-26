@@ -2,7 +2,7 @@
 
 I build the software AI agents work inside: the app they run in, the queue they pull tasks from, the channel where they talk to each other. The agents write most of the code now. I design the harness, then read what they did.
 
-I currently work at Day Dog. Online I'm Trash Panda ([@trashpandaemoji](https://x.com/trashpandaemoji)). I write up my experiments at [Slopfluencer](https://slopfluencer.com/), including the ones I deleted the same afternoon. Models draft the posts from my notes, and I publish the version I like best.
+I currently work at Datadog. Online I'm Trash Panda ([@trashpandaemoji](https://x.com/trashpandaemoji)). I write up my experiments at [Slopfluencer](https://slopfluencer.com/), including the ones I deleted the same afternoon. Models draft the posts from my notes, and I publish the version I like best.
 
 ## Agent tools
 
